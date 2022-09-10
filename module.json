@@ -7,7 +7,8 @@
 	"license": "UNLICENSED",
 	"readme": "README.md",
     "license": "UNLICENSED",
-	"manifest": "https://github.com/bmorcelli/extras-tormenta20/blob/main/module.json",
+	"manifest": "https://raw.githubusercontent.com/bmorcelli/extras-tormenta20/extras-tormenta20/module.json",
+	"download": "https://github.com/bmorcelli/extras-tormenta20/extras-tormenta20.zip",
 	"authors": [
 		{
 			"name": "Pirata",
