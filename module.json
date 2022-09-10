@@ -1,0 +1,42 @@
+{
+    "id": "extras-tormenta20",
+    "title": "Extras Tormenta20",
+    "description": "Compendium com poderes do Inventor e personagens das aventuras prontas",
+    "version": "1.1.0",
+	"readme": "README.md",
+	"license": "UNLICENSED",
+	"readme": "README.md",
+    "license": "UNLICENSED",
+	"manifest": "https://raw.githubusercontent.com/bmorcelli/extras-tormenta20/module.json",
+	"authors": [
+		{
+			"name": "Pirata",
+			"discord": "Pirata#5263",
+			"flags": {}
+		}
+	],
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10.285"
+	},
+    "packs": [
+    {
+      "label": "Personagens",
+      "type": "Actor",
+      "name": "personagens",
+      "path": "packs/personagens.db",
+      "system": "tormenta20",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Poderes Inventor",
+      "type": "Item",
+      "name": "poderes-inventor",
+      "path": "packs/poderes-inventor.db",
+      "system": "tormenta20",
+      "private": false,
+      "flags": {}
+    }
+    ]
+  }
